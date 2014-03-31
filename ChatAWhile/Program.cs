@@ -9,6 +9,9 @@ namespace ChatAWhile
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Please enter your area code");
+
+            Console.WriteLine("Please enter the number of minutes spent talking");
         }
     }
 }
